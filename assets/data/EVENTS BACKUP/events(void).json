@@ -1,0 +1,267 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "stage2",
+		"player1": "z11power-playable",
+		"player2": "shaggy",
+		"player3": null,
+		"player4": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Change Mania",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				22500,
+				[
+					[
+						"Switch Scroll",
+						"True",
+						""
+					]
+				]
+			],
+			[
+				23250,
+				[
+					[
+						"TweenSpin",
+						"3",
+						"720"
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Switch Scroll",
+						"",
+						""
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Burst Dad",
+						"",
+						""
+					]
+				]
+			],
+			[
+				66000,
+				[
+					[
+						"Screen Shake",
+						"3,0.01",
+						"3,0.01"
+					],
+					[
+						"Change Character",
+						"BF",
+						"Empty"
+					]
+				]
+			],
+			[
+				71250,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					],
+					[
+						"Spin Notes",
+						"",
+						""
+					]
+				]
+			],
+			[
+				71625,
+				[
+					[
+						"Spin Notes",
+						"",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					],
+					[
+						"Spin Notes",
+						"",
+						""
+					],
+					[
+						"Chromatic Aberration",
+						"On",
+						""
+					],
+					[
+						"Change Mania",
+						"8",
+						""
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Switch Scroll",
+						"",
+						""
+					],
+					[
+						"Burst Dad",
+						"",
+						""
+					],
+					[
+						"health_drain",
+						".5",
+						""
+					],
+					[
+						"Spin Notes",
+						"",
+						""
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Cam Boom Speed",
+						"4",
+						"2"
+					]
+				]
+			],
+			[
+				114000,
+				[
+					[
+						"Cam Boom Speed",
+						"4",
+						"2"
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"1"
+					],
+					[
+						"Burst Dad",
+						"",
+						""
+					],
+					[
+						"Spin Notes",
+						"",
+						""
+					],
+					[
+						"Randomize Notes",
+						"",
+						""
+					],
+					[
+						"NOMISS",
+						"",
+						""
+					]
+				]
+			],
+			[
+				132000,
+				[
+					[
+						"Burst Dad",
+						"",
+						""
+					],
+					[
+						"Spin Notes",
+						"",
+						""
+					],
+					[
+						"Switch Scroll",
+						"True",
+						""
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Switch Scroll",
+						"",
+						""
+					],
+					[
+						"Burst Boyfriend",
+						"",
+						""
+					],
+					[
+						"Spin Notes",
+						"",
+						""
+					],
+					[
+						"Chromatic Aberration",
+						"",
+						""
+					],
+					[
+						"Randomize Notes",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "Empty",
+		"bpm": 160,
+		"mania": 8,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Void",
+		"exDad": null
+	}
+}

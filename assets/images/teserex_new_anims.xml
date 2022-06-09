@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="teserex new anims.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="teserex new animations0000" x="100" y="100" width="703" height="1427" frameX="-35" frameY="-29" frameWidth="865" frameHeight="1464"/>
+	<SubTexture name="teserex new animations0001" x="903" y="100" width="690" height="1433" frameX="-39" frameY="-24" frameWidth="865" frameHeight="1464"/>
+	<SubTexture name="teserex new animations0002" x="1693" y="100" width="683" height="1436" frameX="-41" frameY="-21" frameWidth="865" frameHeight="1464"/>
+	<SubTexture name="teserex new animations0003" x="2476" y="100" width="679" height="1438" frameX="-42" frameY="-19" frameWidth="865" frameHeight="1464"/>
+	<SubTexture name="teserex new animations0004" x="3255" y="100" width="678" height="1438" frameX="-42" frameY="-19" frameWidth="865" frameHeight="1464"/>
+	<SubTexture name="teserex new animations0005" x="4033" y="100" width="677" height="1439" frameX="-43" frameY="-18" frameWidth="865" frameHeight="1464"/>
+	<SubTexture name="teserex new animations0006" x="4033" y="100" width="677" height="1439" frameX="-43" frameY="-18" frameWidth="865" frameHeight="1464"/>
+	<SubTexture name="teserex new animations0007" x="4033" y="100" width="677" height="1439" frameX="-43" frameY="-18" frameWidth="865" frameHeight="1464"/>
+	<SubTexture name="teserex new animations0008" x="4810" y="100" width="758" height="1434" frameX="-107" frameY="-19" frameWidth="865" frameHeight="1464"/>
+	<SubTexture name="teserex new animations0009" x="5668" y="100" width="728" height="1436" frameX="-108" frameY="-17" frameWidth="865" frameHeight="1464"/>
+	<SubTexture name="teserex new animations0010" x="6496" y="100" width="717" height="1436" frameX="-109" frameY="-17" frameWidth="865" frameHeight="1464"/>
+	<SubTexture name="teserex new animations0011" x="7313" y="100" width="715" height="1437" frameX="-109" frameY="-16" frameWidth="865" frameHeight="1464"/>
+	<SubTexture name="teserex new animations0012" x="7313" y="100" width="715" height="1437" frameX="-109" frameY="-16" frameWidth="865" frameHeight="1464"/>
+	<SubTexture name="teserex new animations0013" x="100" y="1639" width="647" height="1438" frameX="0" frameY="-22" frameWidth="865" frameHeight="1464"/>
+	<SubTexture name="teserex new animations0014" x="847" y="1639" width="632" height="1444" frameX="-14" frameY="-19" frameWidth="865" frameHeight="1464"/>
+	<SubTexture name="teserex new animations0015" x="1579" y="1639" width="627" height="1446" frameX="-19" frameY="-18" frameWidth="865" frameHeight="1464"/>
+	<SubTexture name="teserex new animations0016" x="2306" y="1639" width="626" height="1446" frameX="-20" frameY="-18" frameWidth="865" frameHeight="1464"/>
+	<SubTexture name="teserex new animations0017" x="2306" y="1639" width="626" height="1446" frameX="-20" frameY="-18" frameWidth="865" frameHeight="1464"/>
+	<SubTexture name="teserex new animations0018" x="3032" y="1639" width="578" height="1462" frameX="-54" frameY="0" frameWidth="865" frameHeight="1464"/>
+	<SubTexture name="teserex new animations0019" x="3710" y="1639" width="614" height="1457" frameX="-48" frameY="-4" frameWidth="865" frameHeight="1464"/>
+	<SubTexture name="teserex new animations0020" x="4424" y="1639" width="628" height="1455" frameX="-45" frameY="-6" frameWidth="865" frameHeight="1464"/>
+	<SubTexture name="teserex new animations0021" x="5152" y="1639" width="630" height="1455" frameX="-45" frameY="-6" frameWidth="865" frameHeight="1464"/>
+	<SubTexture name="teserex new animations0022" x="5152" y="1639" width="630" height="1455" frameX="-45" frameY="-6" frameWidth="865" frameHeight="1464"/>
+	<SubTexture name="teserex new animations0023" x="5882" y="1639" width="698" height="1427" frameX="-31" frameY="-33" frameWidth="865" frameHeight="1464"/>
+	<SubTexture name="teserex new animations0024" x="6680" y="1639" width="692" height="1428" frameX="-34" frameY="-32" frameWidth="865" frameHeight="1464"/>
+	<SubTexture name="teserex new animations0025" x="100" y="3201" width="690" height="1429" frameX="-35" frameY="-31" frameWidth="865" frameHeight="1464"/>
+	<SubTexture name="teserex new animations0026" x="890" y="3201" width="690" height="1429" frameX="-35" frameY="-31" frameWidth="865" frameHeight="1464"/>
+	<SubTexture name="teserex new animations0027" x="890" y="3201" width="690" height="1429" frameX="-35" frameY="-31" frameWidth="865" frameHeight="1464"/>
+</TextureAtlas>

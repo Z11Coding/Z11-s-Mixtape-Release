@@ -1,0 +1,9 @@
+stage
+spooky
+mansion
+mansionGlitched
+sky
+theinters
+intermad
+party
+void

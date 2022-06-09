@@ -1,0 +1,50 @@
+{
+	"storyName": "Zoinks!",
+	"difficulties": "4K, True",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week4",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Lesson",
+			"shag",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Teacher",
+			"shaggy",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Void",
+			"Void",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"hiddenUntilUnlocked": true,
+	"weekName": "Week Shag"
+}

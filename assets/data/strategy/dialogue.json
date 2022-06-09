@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"expression": "up",
+			"text": "Ah! I See Your Very Well Trained At This!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "matt"
+		},
+		{
+			"expression": "excited",
+			"text": "Beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "down",
+			"text": "Intresting...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "matt"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep Skedeep Bap.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "left",
+			"text": "??????",
+			"boxState": "normal",
+			"speed": 0.105,
+			"portrait": "matt"
+		},
+		{
+			"expression": "talk",
+			"text": "He's Asking For Another Round.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, Ok.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "matt"
+		},
+		{
+			"expression": "talk",
+			"text": "But Lets Pick Up The Pace A Little, Shall We?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "matt"
+		},
+		{
+			"expression": "excited",
+			"text": "Bep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

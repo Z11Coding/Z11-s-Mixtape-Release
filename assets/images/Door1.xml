@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="door1.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="100" y="100" width="1082" height="1922"/>
+	<SubTexture name="hover0000" x="1282" y="100" width="1082" height="1922"/>
+	<SubTexture name="hover0001" x="2464" y="100" width="1082" height="1922"/>
+	<SubTexture name="hover0002" x="3646" y="100" width="1082" height="1922"/>
+	<SubTexture name="hover0003" x="4828" y="100" width="1082" height="1922"/>
+	<SubTexture name="hover0004" x="6010" y="100" width="1082" height="1922"/>
+	<SubTexture name="hover0005" x="100" y="2122" width="1080" height="1920" frameX="-1" frameY="-1" frameWidth="1082" frameHeight="1922"/>
+	<SubTexture name="hover0006" x="100" y="2122" width="1080" height="1920" frameX="-1" frameY="-1" frameWidth="1082" frameHeight="1922"/>
+	<SubTexture name="hover0007" x="100" y="2122" width="1080" height="1920" frameX="-1" frameY="-1" frameWidth="1082" frameHeight="1922"/>
+	<SubTexture name="hover0008" x="100" y="2122" width="1080" height="1920" frameX="-1" frameY="-1" frameWidth="1082" frameHeight="1922"/>
+	<SubTexture name="hover0009" x="100" y="2122" width="1080" height="1920" frameX="-1" frameY="-1" frameWidth="1082" frameHeight="1922"/>
+	<SubTexture name="select0000" x="1280" y="2122" width="1082" height="1922"/>
+	<SubTexture name="select0001" x="2462" y="2122" width="1082" height="1922"/>
+	<SubTexture name="select0002" x="3644" y="2122" width="1082" height="1922"/>
+	<SubTexture name="select0003" x="4826" y="2122" width="1082" height="1922"/>
+	<SubTexture name="select0004" x="6008" y="2122" width="1082" height="1922"/>
+	<SubTexture name="select0005" x="100" y="4144" width="1082" height="1922"/>
+	<SubTexture name="select0006" x="1282" y="4144" width="1082" height="1922"/>
+	<SubTexture name="select0007" x="2464" y="4144" width="0" height="0" frameX="0" frameY="0" frameWidth="1082" frameHeight="1922"/>
+</TextureAtlas>

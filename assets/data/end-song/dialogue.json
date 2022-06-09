@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "z11",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "I'VE HAD IT!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "be-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "z11",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "NO! NO MORE TALKING FROM YOU!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "z11",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "YOU HAVE BEEN NOTHING BUT A NUCINCE SINCE YOU FOUND ME."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "be-"
+		},
+		{
+			"sound": "",
+			"speed": 0.12,
+			"portrait": "z11",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "I SAID SHUT UP!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "z11",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "IF YOU REALLY WANNA DIE THAT BAD, FINE."
+		},
+		{
+			"sound": "",
+			"speed": 0.15,
+			"portrait": "z11",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "LET ME SHOW YOU A LITTLE TRICK SHAGGY TOUGHT ME."
+		}
+	]
+}

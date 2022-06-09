@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		70,
+		110
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "matt_dialog normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "matt_dialog normal",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "matt_dialog up",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "matt_dialog up",
+			"anim": "up",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "matt_dialog down",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "matt_dialog down",
+			"anim": "down",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "matt_dialog left",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "matt_dialog left",
+			"anim": "left",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "matt_dialog"
+}

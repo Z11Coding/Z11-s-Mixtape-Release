@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Patrick idle"
+		},
+		{
+			"offsets": [
+				10,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Patrick sing left"
+		},
+		{
+			"offsets": [
+				-60,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Patrick sing down"
+		},
+		{
+			"offsets": [
+				-4,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Patrick sing up"
+		},
+		{
+			"offsets": [
+				-80,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Patrick sing right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Patrick_FNF_assets",
+	"position": [
+		110,
+		130
+	],
+	"strums": null,
+	"healthicon": "patrick",
+	"flip_x": false,
+	"healthbar_colors": [
+		231,
+		126,
+		130
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

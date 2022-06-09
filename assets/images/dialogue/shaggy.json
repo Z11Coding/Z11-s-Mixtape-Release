@@ -1,0 +1,128 @@
+{
+	"position": [
+		70,
+		110
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "shaggy",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "shaggy f_sh_normal",
+			"idle_name": "shaggy f_sh_normal"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "shaggy f_sh_con",
+			"idle_name": "shaggy f_sh_con"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "kill",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "shaggy f_sh_kill",
+			"idle_name": "shaggy f_sh_kill"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "serious",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "shaggy f_sh_ser",
+			"idle_name": "shaggy f_sh_ser"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "smug",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "shaggy f_sh_smug",
+			"idle_name": "shaggy f_sh_smug"
+		},
+		{
+			"loop_name": "shaggy f_sh_ang",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "shaggy f_sh_ang",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "shaggy f_sh_happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "shaggy f_sh_happy",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "shaggy f_sh_pens",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "shaggy f_sh_pens",
+			"anim": "pensive",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "shaggy f_sh_sad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "shaggy f_sh_sad",
+			"anim": "sad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "z11",
+			"boxState": "normal",
+			"expression": "weird",
+			"text": "Impressive!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "z11",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "It Seem's You Still Got It From The Last Time We Did This."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Bap Beep Skadeep Bop Bep Da Bow Ep."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Dep Bo Beep Bap Bep Doop Skebep Dap Boo."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(Dang, He Just Got Rekt.)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "z11",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "Be-"
+		},
+		{
+			"sound": "",
+			"speed": 0.025,
+			"portrait": "z11",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "ENOUGH."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "bep-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "z11",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "FINE. IF YOU WANT A CHALLENGE..."
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "z11",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "THEN YOU'LL GET ONE."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "z11",
+			"boxState": "normal",
+			"expression": "weird",
+			"text": "coolswag"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		}
+	]
+}

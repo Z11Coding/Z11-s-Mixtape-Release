@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				86
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Nova Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-121
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Nova Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				20,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Nova Right"
+		},
+		{
+			"offsets": [
+				20,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Nova Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Nova Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nova_Assets",
+	"position": [
+		-20,
+		100
+	],
+	"strums": null,
+	"healthicon": "nova",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		102,
+		153
+	],
+	"camera_position": [
+		160,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

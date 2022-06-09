@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="XaTul-Help.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="XaTul Idle0000" x="10" y="10" width="553" height="802" frameX="-217" frameY="-1099" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0001" x="10" y="10" width="553" height="802" frameX="-217" frameY="-1099" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0002" x="10" y="10" width="553" height="802" frameX="-217" frameY="-1099" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0003" x="10" y="10" width="553" height="802" frameX="-217" frameY="-1099" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0004" x="10" y="10" width="553" height="802" frameX="-217" frameY="-1099" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0005" x="10" y="10" width="553" height="802" frameX="-217" frameY="-1099" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0006" x="10" y="10" width="553" height="802" frameX="-217" frameY="-1099" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0007" x="10" y="10" width="553" height="802" frameX="-217" frameY="-1099" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0008" x="10" y="10" width="553" height="802" frameX="-217" frameY="-1099" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0009" x="563" y="10" width="553" height="802" frameX="-217" frameY="-1099" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0010" x="563" y="10" width="553" height="802" frameX="-217" frameY="-1099" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0011" x="563" y="10" width="553" height="802" frameX="-217" frameY="-1099" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0012" x="563" y="10" width="553" height="802" frameX="-217" frameY="-1099" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0013" x="563" y="10" width="553" height="802" frameX="-217" frameY="-1099" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0014" x="563" y="10" width="553" height="802" frameX="-217" frameY="-1099" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0015" x="1116" y="10" width="554" height="802" frameX="-217" frameY="-1099" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0016" x="1670" y="10" width="587" height="802" frameX="-217" frameY="-1099" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0017" x="2257" y="10" width="619" height="802" frameX="-217" frameY="-1099" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0018" x="2876" y="10" width="637" height="802" frameX="-217" frameY="-1099" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0019" x="3513" y="10" width="584" height="802" frameX="-217" frameY="-1099" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0020" x="4097" y="10" width="567" height="802" frameX="-217" frameY="-1099" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0021" x="4664" y="10" width="537" height="802" frameX="-217" frameY="-1099" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0022" x="4097" y="10" width="567" height="802" frameX="-217" frameY="-1099" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0023" x="5201" y="10" width="561" height="802" frameX="-217" frameY="-1099" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0024" x="5762" y="10" width="560" height="802" frameX="-217" frameY="-1099" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0025" x="5762" y="10" width="560" height="802" frameX="-217" frameY="-1099" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0026" x="5762" y="10" width="560" height="802" frameX="-217" frameY="-1099" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0027" x="5762" y="10" width="560" height="802" frameX="-217" frameY="-1099" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0028" x="6322" y="10" width="915" height="802" frameX="-94" frameY="-1099" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0029" x="7237" y="10" width="915" height="692" frameX="-94" frameY="-1151" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0030" x="10" y="812" width="709" height="752" frameX="-346" frameY="-1163" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0031" x="719" y="812" width="940" height="596" frameX="-120" frameY="-1222" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0032" x="1659" y="812" width="920" height="571" frameX="-339" frameY="-1193" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0033" x="2579" y="812" width="950" height="579" frameX="-65" frameY="-1073" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0034" x="3529" y="812" width="924" height="1247" frameX="0" frameY="-816" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0035" x="4453" y="812" width="801" height="1838" frameX="-128" frameY="-887" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0036" x="5254" y="812" width="527" height="3945" frameX="-491" frameY="0" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0037" x="5781" y="812" width="122" height="904" frameX="-562" frameY="-1039" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0038" x="5903" y="812" width="334" height="427" frameX="-455" frameY="-1275" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0039" x="6237" y="812" width="604" height="734" frameX="-320" frameY="-1121" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0040" x="6841" y="812" width="604" height="473" frameX="-320" frameY="-1252" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0041" x="7445" y="812" width="396" height="311" frameX="-424" frameY="-1333" frameWidth="1259" frameHeight="3945"/>
+	<SubTexture name="XaTul Idle0042" x="7841" y="812" width="0" height="0" frameX="-217" frameY="-1099" frameWidth="1259" frameHeight="3945"/>
+</TextureAtlas>

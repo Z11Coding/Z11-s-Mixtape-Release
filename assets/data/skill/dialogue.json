@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "So...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "matt"
+		},
+		{
+			"expression": "normal",
+			"text": "Your That 'Boyfriend' I Keep Hearing About.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "matt"
+		},
+		{
+			"expression": "excited",
+			"text": "Beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "left",
+			"text": "I See You Also Dont Speak English...",
+			"boxState": "normal",
+			"speed": 0.085,
+			"portrait": "matt"
+		},
+		{
+			"expression": "left",
+			"text": "(Kinda Hoping That Rumor Was Not True...)",
+			"boxState": "normal",
+			"speed": 0.1,
+			"portrait": "matt"
+		},
+		{
+			"expression": "talk",
+			"text": "Anyways.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "matt"
+		},
+		{
+			"expression": "up",
+			"text": "You Here To Rap Or What?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "matt"
+		},
+		{
+			"expression": "excited",
+			"text": "Bep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "up",
+			"text": "Ok Ok Ok.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "matt"
+		},
+		{
+			"expression": "talk",
+			"text": "We'll Start Off Easy.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "matt"
+		}
+	]
+}

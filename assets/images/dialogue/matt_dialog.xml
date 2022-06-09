@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="matt_dialog.png">
+<SubTexture name="matt_dialog up0000" x="0" y="0" width="316" height="319" frameX="-67" frameY="-1" frameWidth="430" frameHeight="320" />
+<SubTexture name="matt_dialog down0000" x="678" y="0" width="374" height="311" frameX="-28" frameY="-9" frameWidth="430" frameHeight="320" />
+<SubTexture name="matt_dialog left0000" x="0" y="319" width="413" height="312" frameX="-1" frameY="-8" frameWidth="430" frameHeight="320" />
+<SubTexture name="matt_dialog normal0000" x="316" y="0" width="362" height="313" frameX="-23" frameY="-7" frameWidth="430" frameHeight="320" />
+</TextureAtlas>

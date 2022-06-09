@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_special.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SpecialBase0000" x="0" y="0" width="150" height="150" frameX="0" frameY="0" frameWidth="450" frameHeight="450"/>
+	<SubTexture name="SpecialBase0001" x="0" y="0" width="150" height="150" frameX="0" frameY="0" frameWidth="450" frameHeight="450"/>
+	<SubTexture name="SpecialBase0002" x="0" y="0" width="150" height="150" frameX="0" frameY="0" frameWidth="450" frameHeight="450"/>
+	<SubTexture name="SpecialBase0003" x="0" y="0" width="150" height="150" frameX="0" frameY="0" frameWidth="450" frameHeight="450"/>
+	<SubTexture name="SpecialPress0000" x="150" y="0" width="150" height="150" frameX="0" frameY="0" frameWidth="450" frameHeight="450"/>
+	<SubTexture name="SpecialPress0001" x="150" y="0" width="150" height="150" frameX="0" frameY="0" frameWidth="450" frameHeight="450"/>
+	<SubTexture name="SpecialPress0002" x="300" y="0" width="150" height="150" frameX="0" frameY="0" frameWidth="450" frameHeight="450"/>
+	<SubTexture name="SpecialPress0003" x="300" y="0" width="150" height="150" frameX="0" frameY="0" frameWidth="450" frameHeight="450"/>
+	<SubTexture name="SpecialPress0004" x="450" y="0" width="150" height="150" frameX="0" frameY="0" frameWidth="450" frameHeight="450"/>
+	<SubTexture name="SpecialPress0005" x="450" y="0" width="150" height="150" frameX="0" frameY="0" frameWidth="450" frameHeight="450"/>
+	<SubTexture name="SpecialPress0006" x="0" y="0" width="150" height="150" frameX="0" frameY="0" frameWidth="450" frameHeight="450"/>
+	<SubTexture name="SpecialPress0007" x="0" y="0" width="150" height="150" frameX="0" frameY="0" frameWidth="450" frameHeight="450"/>
+	<SubTexture name="SpecialWait0000" x="0" y="150" width="150" height="150" frameX="0" frameY="0" frameWidth="450" frameHeight="450"/>
+	<SubTexture name="SpecialWait0001" x="0" y="150" width="150" height="150" frameX="0" frameY="0" frameWidth="450" frameHeight="450"/>
+	<SubTexture name="SpecialWait0002" x="0" y="150" width="150" height="150" frameX="0" frameY="0" frameWidth="450" frameHeight="450"/>
+	<SubTexture name="SpecialWait0003" x="0" y="150" width="150" height="150" frameX="0" frameY="0" frameWidth="450" frameHeight="450"/>
+</TextureAtlas>

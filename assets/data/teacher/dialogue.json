@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"expression": "smug",
+			"text": "Ah, I See That You Have Power Of Your Own.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "shaggy"
+		},
+		{
+			"expression": "worried",
+			"text": "Yeah. Thanks For The Burst Trick, By The Way.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "z11"
+		},
+		{
+			"expression": "normal",
+			"text": "Like, No Problem Man!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "shaggy"
+		},
+		{
+			"expression": "confused",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "shaggy"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "z11"
+		},
+		{
+			"expression": "sweating",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.1,
+			"portrait": "z11"
+		},
+		{
+			"expression": "sweating",
+			"text": "...Are You Ok?",
+			"boxState": "normal",
+			"speed": 0.145,
+			"portrait": "z11"
+		},
+		{
+			"expression": "serious",
+			"text": "Yeah. I Sense A Different Power In You.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "shaggy"
+		},
+		{
+			"expression": "talk",
+			"text": "Do You Mind If We Try Something?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "shaggy"
+		},
+		{
+			"expression": "weird",
+			"text": "Sure. I Have Another Song We Can Use.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "z11"
+		},
+		{
+			"expression": "talk",
+			"text": "Cool. Like, Follow My Lead And Stuff.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "shaggy"
+		}
+	]
+}

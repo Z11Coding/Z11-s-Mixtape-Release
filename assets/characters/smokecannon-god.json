@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				788,
+				380
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SmokeCannon idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				814,
+				332
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SmokeCannon up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				828,
+				380
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SmokeCannon left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				709,
+				380
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SmokeCannon right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				682,
+				388
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SmokeCannon down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SmokeCannon",
+	"position": [
+		0,
+		0
+	],
+	"strums": null,
+	"healthicon": "matt",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		140,
+		0
+	],
+	"camera_position": [
+		-420,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

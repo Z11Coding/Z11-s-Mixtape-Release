@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="OSK.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Osk Sing Note DOWN0000" x="0" y="0" width="540" height="720"/>
+	<SubTexture name="Osk Sing Note DOWN0001" x="540" y="0" width="540" height="720"/>
+	<SubTexture name="Osk Sing Note DOWN0002" x="1080" y="0" width="540" height="720"/>
+	<SubTexture name="Osk Sing Note DOWN0003" x="1620" y="0" width="540" height="720"/>
+	
+	<SubTexture name="Osk Sing Note LEFT0000" x="0" y="1440" width="540" height="720"/>
+	<SubTexture name="Osk Sing Note LEFT0001" x="540" y="1440" width="540" height="720"/>
+	<SubTexture name="Osk Sing Note LEFT0002" x="1080" y="1440" width="540" height="720"/>
+	<SubTexture name="Osk Sing Note LEFT0003" x="1620" y="1440" width="540" height="720"/>
+	
+	<SubTexture name="Osk Sing Note RIGHT0000" x="2160" y="1440" width="540" height="720"/>
+	<SubTexture name="Osk Sing Note RIGHT0001" x="0" y="2160" width="540" height="720"/>
+	<SubTexture name="Osk Sing Note RIGHT0002" x="540" y="2160" width="540" height="720"/>
+	<SubTexture name="Osk Sing Note RIGHT0003" x="1080" y="2160" width="540" height="720"/>	
+
+	<SubTexture name="Osk Sing Note UP0000" x="1620" y="2160" width="540" height="720"/>
+	<SubTexture name="Osk Sing Note UP0001" x="2160" y="2160" width="540" height="720"/>
+	<SubTexture name="Osk Sing Note UP0002" x="2700" y="0" width="540" height="720"/>
+	<SubTexture name="Osk Sing Note UP0003" x="2700" y="720" width="540" height="720"/>
+	
+	<SubTexture name="Osk idle dance0000" x="2160" y="0" width="540" height="720"/>
+	<SubTexture name="Osk idle dance0001" x="0" y="720" width="540" height="720"/>
+	<SubTexture name="Osk idle dance0002" x="540" y="720" width="540" height="720"/>
+	<SubTexture name="Osk idle dance0003" x="1080" y="720" width="540" height="720"/>
+	<SubTexture name="Osk idle dance0004" x="1620" y="720" width="540" height="720"/>
+	<SubTexture name="Osk idle dance0005" x="2160" y="720" width="540" height="720"/>
+</TextureAtlas>

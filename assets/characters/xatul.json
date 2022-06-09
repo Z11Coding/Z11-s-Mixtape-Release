@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "XaTul Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-140
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "XaTul Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				70
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "XaTul Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-130,
+				-50
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "XaTul Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "XaTul Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/XaTul-FNF",
+	"position": [
+		-170,
+		-80
+	],
+	"strums": "xatul",
+	"healthicon": "xatul",
+	"flip_x": false,
+	"healthbar_colors": [
+		45,
+		9,
+		66
+	],
+	"camera_position": [
+		100,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

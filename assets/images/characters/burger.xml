@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="burger.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="teserex goes burger0000" x="100" y="100" width="274" height="559" frameX="-41" frameY="0" frameWidth="419" frameHeight="559"/>
+	<SubTexture name="teserex goes burger0001" x="474" y="100" width="284" height="516" frameX="-37" frameY="-29" frameWidth="419" frameHeight="559"/>
+	<SubTexture name="teserex goes burger0002" x="858" y="100" width="298" height="485" frameX="-33" frameY="-52" frameWidth="419" frameHeight="559"/>
+	<SubTexture name="teserex goes burger0003" x="1256" y="100" width="312" height="458" frameX="-29" frameY="-71" frameWidth="419" frameHeight="559"/>
+	<SubTexture name="teserex goes burger0004" x="1668" y="100" width="324" height="431" frameX="-26" frameY="-90" frameWidth="419" frameHeight="559"/>
+	<SubTexture name="teserex goes burger0005" x="2092" y="100" width="338" height="403" frameX="-22" frameY="-110" frameWidth="419" frameHeight="559"/>
+	<SubTexture name="teserex goes burger0006" x="2530" y="100" width="352" height="377" frameX="-18" frameY="-129" frameWidth="419" frameHeight="559"/>
+	<SubTexture name="teserex goes burger0007" x="2982" y="100" width="365" height="350" frameX="-15" frameY="-148" frameWidth="419" frameHeight="559"/>
+	<SubTexture name="teserex goes burger0008" x="3447" y="100" width="378" height="324" frameX="-11" frameY="-167" frameWidth="419" frameHeight="559"/>
+	<SubTexture name="teserex goes burger0009" x="100" y="759" width="392" height="301" frameX="-7" frameY="-185" frameWidth="419" frameHeight="559"/>
+	<SubTexture name="teserex goes burger0010" x="592" y="759" width="406" height="282" frameX="-3" frameY="-199" frameWidth="419" frameHeight="559"/>
+	<SubTexture name="teserex goes burger0011" x="1098" y="759" width="419" height="279" frameX="0" frameY="-202" frameWidth="419" frameHeight="559"/>
+</TextureAtlas>

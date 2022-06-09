@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Untitled-1.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="wither new0000" x="100" y="100" width="338" height="792" frameX="-176" frameY="-239" frameWidth="712" frameHeight="1031"/>
+	<SubTexture name="wither new0001" x="538" y="100" width="338" height="792" frameX="-176" frameY="-239" frameWidth="712" frameHeight="1031"/>
+	<SubTexture name="wither new0002" x="976" y="100" width="338" height="792" frameX="-176" frameY="-239" frameWidth="712" frameHeight="1031"/>
+	<SubTexture name="wither new0003" x="1414" y="100" width="338" height="792" frameX="-176" frameY="-239" frameWidth="712" frameHeight="1031"/>
+	<SubTexture name="wither new0004" x="1852" y="100" width="338" height="792" frameX="-176" frameY="-239" frameWidth="712" frameHeight="1031"/>
+	<SubTexture name="wither new0005" x="2290" y="100" width="338" height="792" frameX="-176" frameY="-239" frameWidth="712" frameHeight="1031"/>
+	<SubTexture name="wither new0006" x="2728" y="100" width="338" height="792" frameX="-176" frameY="-239" frameWidth="712" frameHeight="1031"/>
+	<SubTexture name="wither new0007" x="2728" y="100" width="338" height="792" frameX="-176" frameY="-239" frameWidth="712" frameHeight="1031"/>
+	<SubTexture name="wither new0008" x="3166" y="100" width="514" height="792" frameX="0" frameY="-239" frameWidth="712" frameHeight="1031"/>
+	<SubTexture name="wither new0009" x="3780" y="100" width="508" height="792" frameX="-6" frameY="-239" frameWidth="712" frameHeight="1031"/>
+	<SubTexture name="wither new0010" x="4388" y="100" width="503" height="792" frameX="-11" frameY="-239" frameWidth="712" frameHeight="1031"/>
+	<SubTexture name="wither new0011" x="4991" y="100" width="500" height="792" frameX="-14" frameY="-239" frameWidth="712" frameHeight="1031"/>
+	<SubTexture name="wither new0012" x="5591" y="100" width="498" height="792" frameX="-16" frameY="-239" frameWidth="712" frameHeight="1031"/>
+	<SubTexture name="wither new0013" x="6189" y="100" width="497" height="792" frameX="-17" frameY="-239" frameWidth="712" frameHeight="1031"/>
+	<SubTexture name="wither new0014" x="6189" y="100" width="497" height="792" frameX="-17" frameY="-239" frameWidth="712" frameHeight="1031"/>
+	<SubTexture name="wither new0015" x="6786" y="100" width="359" height="1031" frameX="-176" frameY="0" frameWidth="712" frameHeight="1031"/>
+	<SubTexture name="wither new0016" x="7245" y="100" width="370" height="1000" frameX="-176" frameY="-31" frameWidth="712" frameHeight="1031"/>
+	<SubTexture name="wither new0017" x="100" y="1231" width="378" height="975" frameX="-176" frameY="-56" frameWidth="712" frameHeight="1031"/>
+	<SubTexture name="wither new0018" x="578" y="1231" width="383" height="958" frameX="-176" frameY="-73" frameWidth="712" frameHeight="1031"/>
+	<SubTexture name="wither new0019" x="1061" y="1231" width="386" height="947" frameX="-176" frameY="-84" frameWidth="712" frameHeight="1031"/>
+	<SubTexture name="wither new0020" x="1547" y="1231" width="387" height="944" frameX="-176" frameY="-87" frameWidth="712" frameHeight="1031"/>
+	<SubTexture name="wither new0021" x="1547" y="1231" width="387" height="944" frameX="-176" frameY="-87" frameWidth="712" frameHeight="1031"/>
+	<SubTexture name="wither new0022" x="2034" y="1231" width="536" height="806" frameX="-176" frameY="-225" frameWidth="712" frameHeight="1031"/>
+	<SubTexture name="wither new0023" x="2670" y="1231" width="516" height="807" frameX="-176" frameY="-224" frameWidth="712" frameHeight="1031"/>
+	<SubTexture name="wither new0024" x="3286" y="1231" width="501" height="808" frameX="-176" frameY="-223" frameWidth="712" frameHeight="1031"/>
+	<SubTexture name="wither new0025" x="3887" y="1231" width="489" height="811" frameX="-176" frameY="-220" frameWidth="712" frameHeight="1031"/>
+	<SubTexture name="wither new0026" x="4476" y="1231" width="482" height="812" frameX="-176" frameY="-219" frameWidth="712" frameHeight="1031"/>
+	<SubTexture name="wither new0027" x="5058" y="1231" width="480" height="812" frameX="-176" frameY="-219" frameWidth="712" frameHeight="1031"/>
+	<SubTexture name="wither new0028" x="5058" y="1231" width="480" height="812" frameX="-176" frameY="-219" frameWidth="712" frameHeight="1031"/>
+</TextureAtlas>

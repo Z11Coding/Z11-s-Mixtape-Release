@@ -1,0 +1,3 @@
+If you're reading this, then either I closed the game, the game crashed when it shouldn;t have, ir u closed the game randomly.
+Either way, just reopen the mod again, and it should work fine again.
+Thanks to TaeYai for the amazing txt code.

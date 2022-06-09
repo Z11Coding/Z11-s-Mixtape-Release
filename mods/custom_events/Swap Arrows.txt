@@ -1,0 +1,4 @@
+swaps the arrows
+set value 1 to 1 to swap it to the left side
+set it to 0 to swap it to the right side
+no value 2

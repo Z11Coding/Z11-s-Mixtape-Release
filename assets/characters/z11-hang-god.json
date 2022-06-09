@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ZedZed - Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ZedZed - Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ZedZed - Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				140
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ZedZed - Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-30
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ZedZed - Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Z11-Hang-god",
+	"position": [
+		0,
+		0
+	],
+	"strums": null,
+	"healthicon": "z11-hang",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

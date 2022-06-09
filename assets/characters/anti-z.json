@@ -1,0 +1,134 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Angry captain LEFT NOTE instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-80
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Angry captain DOWN NOTE instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				140
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Angry captain UP NOTE instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-210,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Angry captain RIGHT NOTE instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Angry captain Idle instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				0
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Angry captain alt LEFT NOTE instance 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Angry captain alt Idle instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				-10
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Angry captain alt DOWN NOTE instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				10
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Angry captain alt RIGHT NOTE instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Angry captain alt UP NOTE instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "captain-new",
+	"position": [
+		320,
+		0
+	],
+	"strums": null,
+	"healthicon": "Anti",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-60,
+		-210
+	],
+	"sing_duration": 6.1,
+	"scale": 4.9
+}

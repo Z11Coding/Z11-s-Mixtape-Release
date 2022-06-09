@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 19,
+			"name": "phineas idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				131,
+				60
+			],
+			"anim": "singLEFT",
+			"fps": 19,
+			"name": "phineas left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 19,
+			"name": "phineas down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				104,
+				80
+			],
+			"anim": "singUP",
+			"fps": 19,
+			"name": "phineas up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				17
+			],
+			"anim": "singRIGHT",
+			"fps": 19,
+			"name": "phineas right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/phineas",
+	"position": [
+		-120,
+		0
+	],
+	"strums": null,
+	"healthicon": "phineas",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		106,
+		76
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Untitled-1.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ZedZed - Down0000" x="10" y="10" width="430" height="726" frameX="-23" frameY="0" frameWidth="479" frameHeight="795"/>
+	<SubTexture name="ZedZed - Down0001" x="465" y="10" width="457" height="729" frameX="-10" frameY="-34" frameWidth="479" frameHeight="795"/>
+	<SubTexture name="ZedZed - Down0002" x="947" y="10" width="479" height="739" frameX="0" frameY="-56" frameWidth="479" frameHeight="795"/>
+	<SubTexture name="ZedZed - Down0003" x="947" y="10" width="479" height="739" frameX="0" frameY="-56" frameWidth="479" frameHeight="795"/>
+	<SubTexture name="ZedZed - Down0004" x="947" y="10" width="479" height="739" frameX="0" frameY="-56" frameWidth="479" frameHeight="795"/>
+	<SubTexture name="ZedZed - Idle0000" x="1451" y="10" width="416" height="652" frameX="0" frameY="-24" frameWidth="429" frameHeight="714"/>
+	<SubTexture name="ZedZed - Idle0001" x="1892" y="10" width="422" height="651" frameX="-7" frameY="-18" frameWidth="429" frameHeight="714"/>
+	<SubTexture name="ZedZed - Idle0002" x="2339" y="10" width="399" height="644" frameX="-14" frameY="-19" frameWidth="429" frameHeight="714"/>
+	<SubTexture name="ZedZed - Idle0003" x="2763" y="10" width="375" height="635" frameX="-29" frameY="-21" frameWidth="429" frameHeight="714"/>
+	<SubTexture name="ZedZed - Idle0004" x="3163" y="10" width="361" height="650" frameX="-39" frameY="0" frameWidth="429" frameHeight="714"/>
+	<SubTexture name="ZedZed - Idle0005" x="3163" y="10" width="361" height="650" frameX="-39" frameY="-12" frameWidth="429" frameHeight="714"/>
+	<SubTexture name="ZedZed - Idle0006" x="3163" y="10" width="361" height="650" frameX="-39" frameY="-25" frameWidth="429" frameHeight="714"/>
+	<SubTexture name="ZedZed - Idle0007" x="3163" y="10" width="361" height="650" frameX="-39" frameY="-38" frameWidth="429" frameHeight="714"/>
+	<SubTexture name="ZedZed - Idle0008" x="3163" y="10" width="361" height="650" frameX="-39" frameY="-50" frameWidth="429" frameHeight="714"/>
+	<SubTexture name="ZedZed - Idle0009" x="3163" y="10" width="361" height="650" frameX="-39" frameY="-63" frameWidth="429" frameHeight="714"/>
+	<SubTexture name="ZedZed - Idle0010" x="3163" y="10" width="361" height="650" frameX="-39" frameY="-53" frameWidth="429" frameHeight="714"/>
+	<SubTexture name="ZedZed - Idle0011" x="3163" y="10" width="361" height="650" frameX="-39" frameY="-43" frameWidth="429" frameHeight="714"/>
+	<SubTexture name="ZedZed - Idle0012" x="3163" y="10" width="361" height="650" frameX="-39" frameY="-33" frameWidth="429" frameHeight="714"/>
+	<SubTexture name="ZedZed - Idle0013" x="3163" y="10" width="361" height="650" frameX="-39" frameY="-23" frameWidth="429" frameHeight="714"/>
+	<SubTexture name="ZedZed - Idle0014" x="3163" y="10" width="361" height="650" frameX="-39" frameY="-13" frameWidth="429" frameHeight="714"/>
+	<SubTexture name="ZedZed - Left0000" x="3549" y="10" width="360" height="716" frameX="-91" frameY="-32" frameWidth="489" frameHeight="754"/>
+	<SubTexture name="ZedZed - Left0001" x="10" y="774" width="429" height="754" frameX="-45" frameY="0" frameWidth="489" frameHeight="754"/>
+	<SubTexture name="ZedZed - Left0002" x="464" y="774" width="489" height="748" frameX="0" frameY="-4" frameWidth="489" frameHeight="754"/>
+	<SubTexture name="ZedZed - Left0003" x="464" y="774" width="489" height="748" frameX="0" frameY="-4" frameWidth="489" frameHeight="754"/>
+	<SubTexture name="ZedZed - Left0004" x="464" y="774" width="489" height="748" frameX="0" frameY="-4" frameWidth="489" frameHeight="754"/>
+	<SubTexture name="ZedZed - Right0000" x="978" y="774" width="443" height="698" frameX="-39" frameY="-10" frameWidth="522" frameHeight="711"/>
+	<SubTexture name="ZedZed - Right0001" x="1446" y="774" width="486" height="706" frameX="-16" frameY="-5" frameWidth="522" frameHeight="711"/>
+	<SubTexture name="ZedZed - Right0002" x="1957" y="774" width="522" height="711"/>
+	<SubTexture name="ZedZed - Right0003" x="1957" y="774" width="522" height="711"/>
+	<SubTexture name="ZedZed - Right0004" x="1957" y="774" width="522" height="711"/>
+	<SubTexture name="ZedZed - Up0000" x="2504" y="774" width="364" height="745" frameX="0" frameY="-69" frameWidth="364" frameHeight="814"/>
+	<SubTexture name="ZedZed - Up0001" x="2893" y="774" width="364" height="758" frameX="0" frameY="-34" frameWidth="364" frameHeight="814"/>
+	<SubTexture name="ZedZed - Up0002" x="3282" y="774" width="364" height="771" frameX="0" frameY="0" frameWidth="364" frameHeight="814"/>
+	<SubTexture name="ZedZed - Up0003" x="3282" y="774" width="364" height="771" frameX="0" frameY="0" frameWidth="364" frameHeight="814"/>
+	<SubTexture name="ZedZed - Up0004" x="3282" y="774" width="364" height="771" frameX="0" frameY="0" frameWidth="364" frameHeight="814"/>
+</TextureAtlas>

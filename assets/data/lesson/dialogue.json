@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Hello? Is Anybody Here?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "z11"
+		},
+		{
+			"expression": "serious",
+			"text": "Huh?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "shaggy"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, Hello There!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "shaggy"
+		},
+		{
+			"expression": "talk",
+			"text": "Like, What's Your Name?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "shaggy"
+		},
+		{
+			"expression": "talk",
+			"text": "My Name Is Z11. Z For Short.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "z11"
+		},
+		{
+			"expression": "smug",
+			"text": "Like, What Are You Doing Here? And How Exactly Did You Get Here?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "shaggy"
+		},
+		{
+			"expression": "weird",
+			"text": "Well, I Came Looking For You, Actually.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "z11"
+		},
+		{
+			"expression": "smug",
+			"text": "You Were?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "shaggy"
+		},
+		{
+			"expression": "serious",
+			"text": "Like, Why?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "shaggy"
+		},
+		{
+			"expression": "worried",
+			"text": "Well, I Was Told You Were A Being Of Great Power, And I Was Wondering...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "z11"
+		},
+		{
+			"expression": "worried",
+			"text": "...If You Could Teach Me How To Do That?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "z11"
+		},
+		{
+			"expression": "talk",
+			"text": "Hmmm.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "shaggy"
+		},
+		{
+			"expression": "normal",
+			"text": "Well, There is one way. But, Like, You're Gonna Have To Do Everything I Say, Ok?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "shaggy"
+		},
+		{
+			"expression": "worried",
+			"text": "Ok.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "z11"
+		}
+	]
+}

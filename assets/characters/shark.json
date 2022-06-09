@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SharkBoi idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				17
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SharkBoi left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-8
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SharkBoi down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				17
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SharkBoi up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				13
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SharkBoi right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SharkBoi",
+	"position": [
+		160,
+		470
+	],
+	"strums": null,
+	"healthicon": "SharkBoy",
+	"flip_x": false,
+	"healthbar_colors": [
+		65,
+		135,
+		196
+	],
+	"camera_position": [
+		-440,
+		-950
+	],
+	"sing_duration": 4,
+	"scale": 1.7
+}

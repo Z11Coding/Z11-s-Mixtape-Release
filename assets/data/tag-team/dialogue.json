@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"expression": "up",
+			"text": "Very Impressive!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "matt"
+		},
+		{
+			"expression": "pissed",
+			"text": "Bep Skdep Bop De Bap Bo!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "left",
+			"text": "I...Still Can't Understand You...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "matt"
+		},
+		{
+			"expression": "talk",
+			"text": "He Said That He's Met Alot Of Matt's Harder Than You. And That You're Not As Fast As The Others.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "left",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.155,
+			"portrait": "matt"
+		},
+		{
+			"expression": "down",
+			"text": "So It's A Challenge You Want, Eh?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "matt"
+		},
+		{
+			"expression": "pissed",
+			"text": "Bap!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "left",
+			"text": "Very Well Then.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "matt"
+		},
+		{
+			"expression": "left",
+			"text": "(I Didn't Actually Think I'd Have To Use This Song Again...)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "matt"
+		},
+		{
+			"expression": "left",
+			"text": "(But It Seem's They Leave Me No Choice...)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "matt"
+		}
+	]
+}

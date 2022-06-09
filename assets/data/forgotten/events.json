@@ -1,0 +1,356 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "boxing",
+		"player1": "bf-reanimated",
+		"player2": "z11-hang",
+		"player3": null,
+		"player4": null,
+		"player5": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"BF Fade",
+						"1",
+						"0"
+					]
+				]
+			],
+			[
+				18000,
+				[
+					[
+						"ScreenStuff",
+						"45",
+						"40"
+					],
+					[
+						"Set Cam Zoom",
+						"2",
+						"40"
+					]
+				]
+			],
+			[
+				35800,
+				[
+					[
+						"BF Fade",
+						"20",
+						"1"
+					]
+				]
+			],
+			[
+				38700,
+				[
+					[
+						"ScreenStuff",
+						"0",
+						"40"
+					]
+				]
+			],
+			[
+				187600,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-magi"
+					],
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				226000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"smokecannon-playable"
+					],
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				264400,
+				[
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				302800,
+				[
+					[
+						"Change Character",
+						"bf",
+						"tex-playable"
+					],
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				379600,
+				[
+					[
+						"Change Character",
+						"bf",
+						"xatul-playable"
+					],
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				398800,
+				[
+					[
+						"Change Character",
+						"gf",
+						"ElCaption"
+					],
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				418000,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf"
+					]
+				]
+			],
+			[
+				437200,
+				[
+					[
+						"Set Cam Zoom",
+						"2",
+						"50"
+					],
+					[
+						"ScreenStuff",
+						"45",
+						"50"
+					]
+				]
+			],
+			[
+				466400,
+				[
+					[
+						"Change Character",
+						"bf",
+						"z11-playable"
+					],
+					[
+						"ScreenStuff",
+						"0",
+						"50"
+					],
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				495800,
+				[
+					[
+						"Chromatic Aberration",
+						"On",
+						""
+					],
+					[
+						"Cam Boom Speed",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				515000,
+				[
+					[
+						"Rave Mode",
+						"On",
+						""
+					],
+					[
+						"WindowShake",
+						"medium",
+						""
+					]
+				]
+			],
+			[
+				553400,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					],
+					[
+						"WindowShake",
+						"normal",
+						""
+					],
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					],
+					[
+						"Cam Boom Speed",
+						"3",
+						"1"
+					],
+					[
+						"Chromatic Aberration",
+						"Off",
+						""
+					]
+				]
+			],
+			[
+				555800,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-magi"
+					],
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				558200,
+				[
+					[
+						"Change Character",
+						"bf",
+						"smokecannon-playable"
+					],
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				560700,
+				[
+					[
+						"Change Character",
+						"bf",
+						"tex-playable"
+					],
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				572700,
+				[
+					[
+						"Change Character",
+						"bf",
+						"xatul-playable"
+					],
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				577500,
+				[
+					[
+						"Change Character",
+						"bf",
+						"ElCaption"
+					],
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				591800,
+				[
+					[
+						"BF Fade",
+						"15",
+						"0"
+					]
+				]
+			],
+			[
+				601400,
+				[
+					[
+						"Opponent Fade",
+						"10",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"numerator": 4,
+		"validScore": false,
+		"denominator": 4,
+		"gfVersion": "gf",
+		"bpm": 150,
+		"mania": 3,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"exbf": null,
+		"song": "forgotten",
+		"exDad": null
+	}
+}

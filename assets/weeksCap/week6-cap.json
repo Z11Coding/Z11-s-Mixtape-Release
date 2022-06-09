@@ -1,0 +1,41 @@
+{
+	"storyName": "Bonus",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week5-cap",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"glitch",
+			"split",
+			[
+				146,
+				0,
+				0
+			]
+		],
+		[
+			"pain-and-suffering",
+			"bf",
+			[
+				0,
+				200,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Bonus",
+	"hiddenUntilUnlocked": false
+}

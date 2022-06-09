@@ -1,0 +1,49 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "burber"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "burg",
+			"loop": false,
+			"name": "burber"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/z11-lmao",
+	"position": [
+		0,
+		0
+	],
+	"strums": "noteskins/null",
+	"healthicon": "Z11",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
