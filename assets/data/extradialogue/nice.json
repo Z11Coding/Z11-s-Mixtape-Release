@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "Z11",
+			"boxState": "normal",
+			"expression": "sweating",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "z11",
+			"boxState": "normal",
+			"expression": "sweating",
+			"text": "...wow"
+		},
+		{
+			"sound": "",
+			"speed": 0.12,
+			"portrait": "z11",
+			"boxState": "normal",
+			"expression": "why",
+			"text": "..."
+		}
+	]
+}

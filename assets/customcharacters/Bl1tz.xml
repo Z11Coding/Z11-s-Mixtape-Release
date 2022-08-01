@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bl1tz.png"><SubTexture name="Bl1tz Idle0000" x="911" y="3283" width="790" height="788" frameX="-902" frameY="-606" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Idle0001" x="0" y="2488" width="765" height="795" frameX="-924" frameY="-599" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Idle0002" x="1414" y="1681" width="735" height="805" frameX="-950" frameY="-589" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Idle0003" x="2454" y="0" width="719" height="811" frameX="-963" frameY="-583" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Idle0004" x="1742" y="0" width="712" height="812" frameX="-967" frameY="-582" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Left0000" x="765" y="2488" width="890" height="794" frameX="-832" frameY="-609" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Left0001" x="2561" y="3283" width="996" height="778" frameX="-743" frameY="-625" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Right0000" x="2149" y="1681" width="782" height="804" frameX="-955" frameY="-584" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Right0001" x="3557" y="3283" width="806" height="778" frameX="-972" frameY="-610" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Down0000" x="0" y="4075" width="1002" height="654" frameX="-771" frameY="-744" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Down0001" x="3035" y="4075" width="1010" height="633" frameX="-763" frameY="-765" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Up0000" x="0" y="853" width="843" height="828" frameX="-864" frameY="-557" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Up0001" x="0" y="0" width="852" height="853" frameX="-860" frameY="-532" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Dodge0000" x="3957" y="0" width="697" height="792" frameX="-984" frameY="-583" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Dodge0001" x="0" y="1681" width="701" height="807" frameX="-909" frameY="-579" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Dodge0002" x="3957" y="0" width="697" height="792" frameX="-984" frameY="-583" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Dodge0003" x="0" y="1681" width="701" height="807" frameX="-909" frameY="-579" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Dodge0004" x="3957" y="0" width="697" height="792" frameX="-984" frameY="-583" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Dodge0005" x="0" y="1681" width="701" height="807" frameX="-909" frameY="-579" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Dodge0006" x="3957" y="0" width="697" height="792" frameX="-984" frameY="-583" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Dodge0007" x="3957" y="0" width="697" height="792" frameX="-984" frameY="-583" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Dodge0008" x="0" y="1681" width="701" height="807" frameX="-909" frameY="-579" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Death0000" x="1655" y="2488" width="839" height="794" frameX="-825" frameY="-600" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Death0001" x="4654" y="0" width="823" height="774" frameX="-842" frameY="-620" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Miss Left0000" x="2494" y="2488" width="895" height="794" frameX="-827" frameY="-609" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Miss Left0001" x="0" y="3283" width="911" height="792" frameX="-778" frameY="-625" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Miss Right0000" x="3173" y="0" width="784" height="804" frameX="-955" frameY="-584" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Miss Right0001" x="1701" y="3283" width="860" height="783" frameX="-923" frameY="-605" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Miss Down0000" x="1002" y="4075" width="1003" height="654" frameX="-771" frameY="-744" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Miss Down0001" x="2005" y="4075" width="1030" height="644" frameX="-784" frameY="-765" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Miss Up0000" x="843" y="853" width="848" height="828" frameX="-864" frameY="-557" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Miss Up0001" x="852" y="0" width="890" height="853" frameX="-822" frameY="-532" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Stare0000" x="1742" y="812" width="712" height="812" frameX="-967" frameY="-582" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Stare0001" x="2454" y="811" width="712" height="810" frameX="-968" frameY="-584" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Stare0002" x="701" y="1681" width="713" height="807" frameX="-969" frameY="-587" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Stare0003" x="3173" y="1607" width="713" height="796" frameX="-970" frameY="-598" frameWidth="2880" frameHeight="1620" />
+<SubTexture name="Bl1tz Stare0004" x="3173" y="804" width="714" height="803" frameX="-971" frameY="-591" frameWidth="2880" frameHeight="1620" />
+</TextureAtlas>

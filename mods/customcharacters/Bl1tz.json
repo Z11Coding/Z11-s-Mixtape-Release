@@ -1,0 +1,221 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				18
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "BF idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				294,
+				267
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "boyfriend attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				-36
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "bf pre attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-13
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Bl1tz Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				-3
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Bl1tz Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				-9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Bl1tz Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-8
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Bl1tz Miss Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-10
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Bl1tz Miss Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				-1
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Bl1tz Miss Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				1
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Bl1tz Miss Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				5
+			],
+			"anim": "hey",
+			"fps": 12,
+			"name": "Bl1tz Stare",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "Bl1tz Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				2
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Bl1tz Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-1
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "Bl1tz Dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				-4
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Bl1tz Death",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				-5
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Bl1tz Death",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				-6
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Bl1tz Death",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bl1tz",
+	"position": [
+		-1100,
+		-400
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-500,
+		500
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

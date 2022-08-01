@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.135,
+			"portrait": "matt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.135,
+			"portrait": "matt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You..."
+		},
+		{
+			"sound": "",
+			"speed": 0.15,
+			"portrait": "matt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're...."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "matt",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "HOW?!?!?!?"
+		},
+		{
+			"sound": "",
+			"speed": 0.01,
+			"portrait": "matt",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "NOBODY HAS EVER SURVIVED THAT BEFORE! HOW ARE YOU STILL STANDING THERE?!?!?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Ur Just Bad."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Yeah, BF I Think We Should Just Le-"
+		},
+		{
+			"sound": "",
+			"speed": 0.005,
+			"portrait": "matt",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "NO!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.015,
+			"portrait": "matt",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "YOU TWO AREN'T GOING ANYWHERE!!"
+		},
+		{
+			"sound": "",
+			"speed": 0,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "matt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "matt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Lights Out"
+		}
+	]
+}

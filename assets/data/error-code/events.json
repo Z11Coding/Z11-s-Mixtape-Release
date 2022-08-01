@@ -1,0 +1,1056 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Opponent Fade",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				1200,
+				[
+					[
+						"startGo",
+						"",
+						""
+					]
+				]
+			],
+			[
+				1275,
+				[
+					[
+						"Switch Who Sings",
+						"bf2",
+						""
+					]
+				]
+			],
+			[
+				4800,
+				[
+					[
+						"Switch Who Sings",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				7200,
+				[
+					[
+						"Switch Who Sings",
+						"bf2",
+						""
+					]
+				]
+			],
+			[
+				9600,
+				[
+					[
+						"Switch Who Sings",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				11700,
+				[
+					[
+						"Switch Who Sings",
+						"bf2",
+						""
+					]
+				]
+			],
+			[
+				14100,
+				[
+					[
+						"Switch Who Sings",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				19200,
+				[
+					[
+						"Switch Who Sings",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				21600,
+				[
+					[
+						"Switch Who Sings",
+						"bf2",
+						""
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Switch Who Sings",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				26400,
+				[
+					[
+						"Switch Who Sings",
+						"bf2",
+						""
+					]
+				]
+			],
+			[
+				28800,
+				[
+					[
+						"Switch Who Sings",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				31200,
+				[
+					[
+						"Switch Who Sings",
+						"bf2",
+						""
+					]
+				]
+			],
+			[
+				33600,
+				[
+					[
+						"Switch Who Sings",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				36000,
+				[
+					[
+						"Switch Who Sings",
+						"bf2",
+						""
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Switch Who Sings",
+						"bf",
+						""
+					],
+					[
+						"Opponent Fade",
+						"2",
+						"1"
+					],
+					[
+						"Chrom Beat Effect",
+						"fast",
+						""
+					]
+				]
+			],
+			[
+				40800,
+				[
+					[
+						"Chrom Beat Effect",
+						"faster",
+						""
+					],
+					[
+						"Rave Mode",
+						"on",
+						""
+					],
+					[
+						"onBeat",
+						"true",
+						""
+					],
+					[
+						"Toggle Trail",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				58800,
+				[
+					[
+						"Change Lyric",
+						"Ev",
+						""
+					]
+				]
+			],
+			[
+				58875,
+				[
+					[
+						"Change Lyric",
+						"Every",
+						""
+					]
+				]
+			],
+			[
+				58950,
+				[
+					[
+						"Change Lyric",
+						"Everybod",
+						""
+					]
+				]
+			],
+			[
+				59025,
+				[
+					[
+						"Change Lyric",
+						"Everybody",
+						""
+					]
+				]
+			],
+			[
+				59100,
+				[
+					[
+						"Change Lyric",
+						"Everybody Jump",
+						""
+					]
+				]
+			],
+			[
+				59175,
+				[
+					[
+						"Change Lyric",
+						"Everybody Jump In",
+						""
+					]
+				]
+			],
+			[
+				59250,
+				[
+					[
+						"Change Lyric",
+						"Everybody Jump In On",
+						""
+					]
+				]
+			],
+			[
+				59325,
+				[
+					[
+						"Change Lyric",
+						"Everybody Jump In On The",
+						""
+					]
+				]
+			],
+			[
+				59400,
+				[
+					[
+						"Change Lyric",
+						"Everybody Jump In On The Source",
+						""
+					]
+				]
+			],
+			[
+				59550,
+				[
+					[
+						"Change Lyric",
+						"Right",
+						"white"
+					]
+				]
+			],
+			[
+				59700,
+				[
+					[
+						"Change Lyric",
+						"NOW",
+						"red"
+					]
+				]
+			],
+			[
+				59737.5,
+				[
+					[
+						"Change Lyric",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59775,
+				[
+					[
+						"Change Lyric",
+						"NOW",
+						"red"
+					]
+				]
+			],
+			[
+				59812.5,
+				[
+					[
+						"Change Lyric",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59850,
+				[
+					[
+						"Change Lyric",
+						"NOW",
+						"red"
+					]
+				]
+			],
+			[
+				59887.5,
+				[
+					[
+						"Change Lyric",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59925,
+				[
+					[
+						"Change Lyric",
+						"NOW",
+						"red"
+					]
+				]
+			],
+			[
+				59962.5,
+				[
+					[
+						"Change Lyric",
+						"",
+						""
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Arrow flip",
+						"",
+						"1"
+					],
+					[
+						"Switch Who Sings",
+						"bf2",
+						""
+					]
+				]
+			],
+			[
+				62400,
+				[
+					[
+						"Switch Who Sings",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				64800,
+				[
+					[
+						"Switch Who Sings",
+						"bf2",
+						""
+					]
+				]
+			],
+			[
+				67200,
+				[
+					[
+						"Switch Who Sings",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				69600,
+				[
+					[
+						"Switch Who Sings",
+						"bf2",
+						""
+					],
+					[
+						"Arrow flip",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				70800,
+				[
+					[
+						"Switch Who Sings",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Switch Who Sings",
+						"bf2",
+						""
+					]
+				]
+			],
+			[
+				73200,
+				[
+					[
+						"Switch Who Sings",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				74400,
+				[
+					[
+						"Switch Who Sings",
+						"bf2",
+						""
+					]
+				]
+			],
+			[
+				75600,
+				[
+					[
+						"Switch Who Sings",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				79200,
+				[
+					[
+						"Switch Who Sings",
+						"bf",
+						""
+					],
+					[
+						"Switch Scroll",
+						"true",
+						""
+					],
+					[
+						"Static Fade",
+						"1",
+						"0.3"
+					],
+					[
+						"Burst Dad",
+						"",
+						""
+					],
+					[
+						"Pendulum",
+						"",
+						""
+					],
+					[
+						"Rave Mode",
+						"off",
+						""
+					],
+					[
+						"Chrom Beat Effect",
+						"fast",
+						""
+					]
+				]
+			],
+			[
+				98400,
+				[
+					[
+						"Chrom Beat Effect",
+						"faster",
+						""
+					],
+					[
+						"Static Fade",
+						"1",
+						"0"
+					],
+					[
+						"Remove Pendulum",
+						"",
+						""
+					],
+					[
+						"Switch Scroll",
+						"false",
+						""
+					],
+					[
+						"Switch Who Sings",
+						"bf2",
+						""
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Switch Who Sings",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				117600,
+				[
+					[
+						"Chrom Beat Effect",
+						"off",
+						""
+					]
+				]
+			],
+			[
+				132000,
+				[
+					[
+						"Chrom Beat Effect",
+						"fast",
+						""
+					]
+				]
+			],
+			[
+				134400,
+				[
+					[
+						"Chrom Beat Effect",
+						"faster",
+						""
+					]
+				]
+			],
+			[
+				135600,
+				[
+					[
+						"Change Lyric",
+						"Ev",
+						""
+					]
+				]
+			],
+			[
+				135675,
+				[
+					[
+						"Change Lyric",
+						"Every",
+						""
+					]
+				]
+			],
+			[
+				135750,
+				[
+					[
+						"Change Lyric",
+						"Everybod",
+						""
+					]
+				]
+			],
+			[
+				135825,
+				[
+					[
+						"Change Lyric",
+						"Everybody",
+						""
+					]
+				]
+			],
+			[
+				135900,
+				[
+					[
+						"Change Lyric",
+						"Everybody Jump",
+						""
+					]
+				]
+			],
+			[
+				135975,
+				[
+					[
+						"Change Lyric",
+						"Everybody Jump In",
+						""
+					]
+				]
+			],
+			[
+				136050,
+				[
+					[
+						"Change Lyric",
+						"Everybody Jump In On",
+						""
+					]
+				]
+			],
+			[
+				136125,
+				[
+					[
+						"Change Lyric",
+						"Everybody Jump In On The",
+						""
+					]
+				]
+			],
+			[
+				136200,
+				[
+					[
+						"Change Lyric",
+						"Everybody Jump In On The Source",
+						""
+					]
+				]
+			],
+			[
+				136350,
+				[
+					[
+						"Change Lyric",
+						"RIGHT",
+						"red"
+					]
+				]
+			],
+			[
+				136500,
+				[
+					[
+						"Change Lyric",
+						"NOW!!",
+						"red"
+					]
+				]
+			],
+			[
+				136537.5,
+				[
+					[
+						"Change Lyric",
+						"",
+						""
+					]
+				]
+			],
+			[
+				136575,
+				[
+					[
+						"Change Lyric",
+						"NOW!!",
+						"red"
+					]
+				]
+			],
+			[
+				136612.5,
+				[
+					[
+						"Change Lyric",
+						"",
+						""
+					]
+				]
+			],
+			[
+				136650,
+				[
+					[
+						"Change Lyric",
+						"NOW!!",
+						"red"
+					]
+				]
+			],
+			[
+				136687.5,
+				[
+					[
+						"Change Lyric",
+						"",
+						""
+					]
+				]
+			],
+			[
+				136725,
+				[
+					[
+						"Change Lyric",
+						"NOW!!",
+						"red"
+					]
+				]
+			],
+			[
+				136762.5,
+				[
+					[
+						"Change Lyric",
+						"",
+						""
+					]
+				]
+			],
+			[
+				140400,
+				[
+					[
+						"Switch Who Sings",
+						"bf2",
+						""
+					],
+					[
+						"Freeze Notes",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				140587.5,
+				[
+					[
+						"Freeze Notes",
+						"false",
+						""
+					]
+				]
+			],
+			[
+				140625,
+				[
+					[
+						"Freeze Notes",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				140812.5,
+				[
+					[
+						"Freeze Notes",
+						"false",
+						""
+					]
+				]
+			],
+			[
+				140850,
+				[
+					[
+						"Freeze Notes",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				141037.5,
+				[
+					[
+						"Freeze Notes",
+						"false",
+						""
+					]
+				]
+			],
+			[
+				141075,
+				[
+					[
+						"Freeze Notes",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				141262.5,
+				[
+					[
+						"Freeze Notes",
+						"false",
+						""
+					]
+				]
+			],
+			[
+				141300,
+				[
+					[
+						"Freeze Notes",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				141450,
+				[
+					[
+						"Freeze Notes",
+						"false",
+						""
+					]
+				]
+			],
+			[
+				141600,
+				[
+					[
+						"Switch Who Sings",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				146400,
+				[
+					[
+						"Switch Who Sings",
+						"bf2",
+						""
+					]
+				]
+			],
+			[
+				148800,
+				[
+					[
+						"Switch Who Sings",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				156000,
+				[
+					[
+						"Switch Who Sings",
+						"bf2",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"0.7",
+						"1"
+					],
+					[
+						"Chrom Beat Effect",
+						"fast",
+						""
+					],
+					[
+						"Rave Mode",
+						"off",
+						""
+					]
+				]
+			],
+			[
+				165600,
+				[
+					[
+						"Switch Who Sings",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				174600,
+				[
+					[
+						"zCameraFix",
+						"",
+						""
+					],
+					[
+						"Play Animation",
+						"hit",
+						"dad"
+					]
+				]
+			],
+			[
+				174900,
+				[
+					[
+						"Play Animation",
+						"pre-attack",
+						"dad"
+					]
+				]
+			],
+			[
+				175200,
+				[
+					[
+						"HealthDrain",
+						"0.6",
+						"0.01"
+					],
+					[
+						"Rave Mode",
+						"on",
+						""
+					],
+					[
+						"Rotating",
+						"2",
+						""
+					],
+					[
+						"Static Fade",
+						"0.5",
+						"0.4"
+					],
+					[
+						"BeatBopNotes",
+						"",
+						""
+					],
+					[
+						"Chrom Beat Effect",
+						"faster",
+						""
+					]
+				]
+			],
+			[
+				208800,
+				[
+					[
+						"Chrom Beat Effect",
+						"off",
+						""
+					],
+					[
+						"Rave Mode",
+						"off",
+						""
+					]
+				]
+			],
+			[
+				208875,
+				[
+					[
+						"Static Fade",
+						"1",
+						"0"
+					]
+				]
+			],
+			[
+				214350,
+				[
+					[
+						"Static Fade",
+						"30",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

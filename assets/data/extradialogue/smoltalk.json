@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "z11",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Welp. You Beat Me. Congrats!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "z11",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, And Sorry For Trying To Kill You Before. Idk What Got Into Me Then."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Beh!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "z11",
+			"boxState": "normal",
+			"expression": "weird",
+			"text": "Well, As Much As I  Would Love To Stay, I Got To Go."
+		}
+	]
+}

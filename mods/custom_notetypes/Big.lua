@@ -27,14 +27,13 @@ function onCreatePost()
 
         makeAnimatedLuaSprite("rcpt"..i, "CENTERNOTE_assets")
         addAnimationByIndices("rcpt"..i, "anim", prefixes[i])
-        debugPrint(prefixes[i])
         objectPlayAnimation("rcpt"..i, "anim")
-        setObjectCamera("rcpt"..i, "camHUD")
+        setObjectCamera("rcpt"..i, "hud")
         setProperty("rcpt"..i..".alpha", 0.0001)
         scaleObject("rcpt"..i, newSize, newSize)
         setProperty("rcpt"..i..".x", (screenWidth / 2 - (160 * newSize) / 2) - ((160 * newSize) * pos))
-        setProperty("rcpt"..i..".y", (screenHeight / 2 - (160 * newSize) / 2))
-        addLuaSprite("rcpt"..i, true)
+        setProperty("rcpt"..i..".y", screenHeight / 2 - (160 * newSize) / 2)
+        addLuaSprite("rcpt"..i, "add")
     end
 end
 
@@ -80,7 +79,7 @@ function onUpdatePost(elapsed)
 end
 
 function goodNoteHit(index, data, datype, sus)
-    if datype:lower() == 'Big' then
+    if datype:lower() == 'big' then
         setProperty("rcpt"..(data + 1)..".angle", 0)
         doTweenAngle("weee"..data, "rcpt"..(data + 1), 360, (60 / getPropertyFromClass("PlayState", "SONG.bpm")) / 2)
         setProperty("camHUD.zoom", getProperty("camHUD.zoom") + 0.1)

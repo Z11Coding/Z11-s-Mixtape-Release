@@ -1,9 +1,10 @@
 stage
 spooky
-mansion
-mansionGlitched
-sky
-theinters
-intermad
-party
-void
+philly
+limo
+mall
+mallEvil
+school
+schoolEvil
+tank
+oblivion
